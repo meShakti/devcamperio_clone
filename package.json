@@ -9,6 +9,9 @@
   },
   "author": "Brad Traversy",
   "license": "MIT",
+  "engines": {
+    "node": "12.18.4"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
